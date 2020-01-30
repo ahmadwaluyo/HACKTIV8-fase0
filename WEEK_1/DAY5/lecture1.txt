@@ -1,0 +1,3 @@
+- variable akan bernilai false jika berisi: undefined, null, 0, "" , NaN => semua akan bernilai true jika selain itu
+- switch cocok untuk banyak opsi dengan nilai yang sudah terdefinisi
+- if else cocok untuk percabangan sedikit atau banyak dan masing-masing cabang nilai yang diperiksa punnya banyak kombinasi

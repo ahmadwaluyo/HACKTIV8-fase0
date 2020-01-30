@@ -1,0 +1,9 @@
+misal setiap index dalam track mewakilkan jarak 1 km berapa jarak yang mampu di tempuh oleh pelari dengan stamina yang dimiliki.
+jika pelari belum sampai finish tetapi stamina sudah habis tampilkan "Mohon Maaf kamu belum mampu sampai ke garis finish, jarak tempuh kamu adalah '...'";
+[...] di isi jarak tempuh;
+
+jika pelarii sudah sampai garis finish, tampilkan "selamat kamu berhasil sampai garis finish"
+
+jika pelari tidak memiliki stamina tampilkan "Maaf kamu belum terdaftar sebagai peserta."
+
+nanti baik stamina maupun track akan bersifat dinamis jadi bisa di ganti2.

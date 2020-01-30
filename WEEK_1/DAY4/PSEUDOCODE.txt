@@ -1,0 +1,9 @@
+- pseudo kode: kalo bisa ini semua bahasa pemrograman bisa
+- kapan menggunakan conditional kapan menggunakan loop?
+conditional ada opsi, loop kondisional... jika ada space maka action jalan
+- simple nya pseudo code hanya ada input, output, proses
+
+"ALWAYS START WITH WHAT WE KNOW
+DEFINE THE INPUT
+KEEP OUTPUT IN MIND
+THINK HOW WE PROCESS THE INPUT TO GET THE OUTPUT"
